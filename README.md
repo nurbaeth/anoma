@@ -6,7 +6,7 @@ found [here](https://specs.anoma.net/latest).
 ## Docs 
  
 - [Contributors documentation](https://anoma.github.io/anoma/readme.html) 
-- [Specification](https://specs.anoma.net/latest/)
+- [Specification](https://specs.anoma.net/latest/) 
 - Developer Docs (Coming Soon™)
 - User Docs (Coming Soon™)
 
