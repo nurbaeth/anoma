@@ -9,7 +9,7 @@ found [here](https://specs.anoma.net/latest).
 - [Specification](https://specs.anoma.net/latest/) 
 - Developer Docs (Coming Soon™)
 - User Docs (Coming Soon™)
-
+ 
 ## Following Development
 
 Work is merged into `base` on a bi-weekly (once every two weeks)
