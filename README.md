@@ -4,7 +4,7 @@ This is an implementation of the Anoma protocol, whose specs can be
 found [here](https://specs.anoma.net/latest).
  
 ## Docs 
- 
+  
 - [Contributors documentation](https://anoma.github.io/anoma/readme.html) 
 - [Specification](https://specs.anoma.net/latest/) 
 - Developer Docs (Coming Soon™)
