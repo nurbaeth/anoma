@@ -1,4 +1,4 @@
-# Anoma 
+# Anoma  
  
 This is an implementation of the Anoma protocol, whose specs can be 
 found [here](https://specs.anoma.net/latest).
